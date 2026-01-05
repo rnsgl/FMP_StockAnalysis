@@ -1,6 +1,6 @@
 # Market Reactions to Company News —  Stock Analysis Dashboard
 
-Power BI app link: https://app.powerbi.com/Redirect?action=OpenApp&appId=b5a34214-82e2-4c5f-9ca5-2bc3c50c5231&ctid=6230e860-bfc5-4095-a6bc-104721add6e6&experience=power-bi
+Power BI app link: https://app.powerbi.com/view?r=eyJrIjoiNWIwYjcyMGQtYjhjZi00MWFjLWI5ODgtZDY2MGY1NDY1NjliIiwidCI6ImM3YmU1ZDNkLWI5MmEtNGI2MS1iMTdhLThjNjg1YTQ0MjBhYSIsImMiOjl9
 
 
 <img width="1480" height="828" alt="imagem" src="https://github.com/user-attachments/assets/ce2de29a-bdcc-489b-b535-dab40c1c6751" />
